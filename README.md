@@ -1,6 +1,5 @@
 # Simea
 Sistem Informasi Manajemen Tim Esports (SIMEA)
-# simea
 Tugas Akhir
 Sistem Informasi Manajemen Tim Esports (SIMEA)
 
